@@ -1,2 +1,2 @@
 #!/bin/bash
-cvlc StarWars IV.mp4
+play StarWars IV.mp4
