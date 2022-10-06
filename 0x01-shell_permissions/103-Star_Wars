@@ -1,2 +1,2 @@
 #!/bin/bash
-xdg-open StarWars IV.mp4
+mpv StarWars IV.mp4
