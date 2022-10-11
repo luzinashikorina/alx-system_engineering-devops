@@ -1,2 +1,2 @@
 #!/bin/bash
-res= "expr $POWER/$DIVIDE" \n
+echo $((POWER/DIVIDE)) \n
