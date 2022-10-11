@@ -1,2 +1,2 @@
-#!/bin/bash
-echo export $((POWER/DIVIDE)) \n
+!/bin/bash 
+echo $((POWER/DIVIDE))
