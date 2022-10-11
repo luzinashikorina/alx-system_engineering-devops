@@ -1,2 +1,2 @@
 #!/bin/bash
-kk
+echo $((128+$TRUEKNOWLEDGE))
