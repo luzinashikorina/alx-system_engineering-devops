@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v oo | printf [:alpha:][:alpha:] 
+printf "%0.2f\n" $NUM
