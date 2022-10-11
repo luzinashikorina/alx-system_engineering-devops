@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v oo | printf [:alpha:][:alpha:] 
+grep -v oo | grep [:alpha:][:alpha:] 
